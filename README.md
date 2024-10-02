@@ -1,7 +1,7 @@
 <b>Página de Login - Frontend</b>
 
 
-Este é um projeto simples de uma página de login, desenvolvido utilizando HTML, CSS e JavaScript. O objetivo é demonstrar a criação modelo de uma interface funcional de login.
+Este é um projeto simples, como fonte de estudo, de uma página de login, desenvolvido utilizando HTML, CSS e JavaScript. O objetivo é demonstrar a criação modelo de uma interface funcional de login.
 
 <b>Funcionalidades:</b>
 
